@@ -94,30 +94,30 @@ Lastly, based on the simulations, it is also important to note how diversificati
 
 ## Sources
 
-COVID-19 and the aviation industry: Impact and policy responses
-1.	https://www.oecd.org/coronavirus/policy-responses/covid-19-and-the-aviation-industry-impact-and-policy-responses-26d521c1/
-SPY Data 
-2.	https://finance.yahoo.com/quote/SPY?p=SPY&.tsrc=fin-srch
-XLI Data
-3.	https://finance.yahoo.com/quote/XLI?p=XLI&.tsrc=fin-srch
-JETS Data
-4.	https://finance.yahoo.com/quote/JETS?p=JETS&.tsrc=fin-srch
-Covid Timeline
-5.	https://www.yalemedicine.org/news/covid-timeline
-6.	https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020
-7.	https://www.cdc.gov/museum/timeline/covid19.html
-Impact of the COVID-19 pandemic on the US Economy and Financial Markets
-8.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8454271/
-9.	https://www.forbes.com/sites/mikepatton/2020/10/12/the-impact-of-covid-19-on-us-economy-and-financial-markets/?sh=43548c5a2d20 
-Travel restrictions
-10.	https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/covid-19-travel-restrictions-and-exceptions.html
-How US air travel has been affected by global crises
-11.	https://www.oliverwyman.com/our-expertise/insights/2021/mar/airline-economic-analysis-2020-2021.html
-12.	https://www.sciencedirect.com/science/article/pii/S2590198220301883
-13.	https://www.cnbc.com/2021/01/01/us-airline-2-losses-expected-to-top-35-billion-in-dismal-2020-from-pandemic.html
-14.	https://www.theguardian.com/world/2020/sep/29/inside-the-airline-industry-meltdown-coronavirus-pandemic
-Financial definitions
-15.	https://www.investopedia.com 
+1. COVID-19 and the aviation industry: Impact and policy responses
+  * https://www.oecd.org/coronavirus/policy-responses/covid-19-and-the-aviation-industry-impact-and-policy-responses-26d521c1/
+2. SPY Data 
+  * https://finance.yahoo.com/quote/SPY?p=SPY&.tsrc=fin-srch
+3. XLI Data
+  * https://finance.yahoo.com/quote/XLI?p=XLI&.tsrc=fin-srch
+4. JETS Data
+  * https://finance.yahoo.com/quote/JETS?p=JETS&.tsrc=fin-srch
+5. Covid Timeline
+  *	https://www.yalemedicine.org/news/covid-timeline
+  * https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020
+  * https://www.cdc.gov/museum/timeline/covid19.html
+6. Impact of the COVID-19 pandemic on the US Economy and Financial Markets
+  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8454271/
+  * https://www.forbes.com/sites/mikepatton/2020/10/12/the-impact-of-covid-19-on-us-economy-and-financial-markets/?sh=43548c5a2d20 
+7. Travel restrictions
+  *	https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/covid-19-travel-restrictions-and-exceptions.html
+8. How US air travel has been affected by global crises
+  * https://www.oliverwyman.com/our-expertise/insights/2021/mar/airline-economic-analysis-2020-2021.html
+  *	https://www.sciencedirect.com/science/article/pii/S2590198220301883
+  *	https://www.cnbc.com/2021/01/01/us-airline-2-losses-expected-to-top-35-billion-in-dismal-2020-from-pandemic.html
+  * https://www.theguardian.com/world/2020/sep/29/inside-the-airline-industry-meltdown-coronavirus-pandemic
+9. Financial definitions
+  *	https://www.investopedia.com 
 
 
 
